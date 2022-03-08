@@ -1,4 +1,8 @@
 Hello World
-change: for commit 1
-change: for bug1 fix2
-Change for WI3 by team mate for 3-way merging conflict
+
+change: for commit 1.
+change: for bug1 fix2.
+Change: for WI3 by team mate for 3-way merging conflict.
+
+Change: for bug2 fix 3-ways for conflict.
+
