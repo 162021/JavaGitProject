@@ -1,14 +1,16 @@
 Hello World!!
 
-change: For commit 1.
-change: For bug1 fix2.
-Change: For WI3 by team mate for 3-way merging conflict.
+change 1: For commit 1.
+change 2: For bug1 fix2.
+Change 3: For WI3 by team mate for 3-way merging conflict.
 
-Change: For bug2 fix 3-ways for conflict.
+Change 4: For bug2 fix 3-ways for conflict.
 
 
-Change:For WI4 by team mate for rebase with conflict.
+Change 5:For WI4 by team mate for rebase with conflict.
 
-Change: For CR1 to check rebase with conflict.
+Change 6: For CR1 to check rebase with conflict.
 
-Change:For CR2 to check stash for half done work inprogress.
+Change 7:For CR2 to check stash for half done work inprogress.
+
+Change 8:For WI5 by team mate on remote master.
