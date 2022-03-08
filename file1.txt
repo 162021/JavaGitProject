@@ -1,4 +1,4 @@
-Hello World
+Hello World!!
 
 change: For commit 1.
 change: For bug1 fix2.
@@ -6,4 +6,8 @@ Change: For WI3 by team mate for 3-way merging conflict.
 
 Change: For bug2 fix 3-ways for conflict.
 
+
 Change:For WI4 by team mate for rebase with conflict.
+
+Change: For CR1 to check rebase with conflict.
+
